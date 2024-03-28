@@ -5,7 +5,8 @@
 אופן השימוש:
 
 התחיל מהתפריט ודף הבית:
-![image](https://github.com/TairMalul/Hadasim-4-Home-Test/assets/118104637/f49b7ae0-2eff-4183-805e-de9d55dadf78)
+![image](https://github.com/TairMalul/Hadasim-4-Home-Test/assets/118104637/c515d7a2-007e-4aca-b95f-5b935853ac28)
+
 בדף הבית ניתן לראות תצוגה סיכומית בנושא הקורונה (בונוס מס' 3) - כמות המחוסנים מבין חברי הקופה, כמה התחסנו בכל מנת חיסון וכן כמה חולים מאומתים היו בכל יום ב-30 הימים האחרונים.
 למעלה, ניתן להבחין בתפריט. בלחיצה על חברי הקופה-
 ![image](https://github.com/TairMalul/Hadasim-4-Home-Test/assets/118104637/b8071d05-3f88-4f89-9e46-57da311d6eaa)
