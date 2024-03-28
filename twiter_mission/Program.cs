@@ -35,6 +35,7 @@ while (option!=3)
             Console.WriteLine("Area: " + height * width);
         else Console.WriteLine("Perimeter: " + (height * 2 + width * 2));
     }
+    //מקרה 2 - משולש
     else if (option == 2)
     {
         Console.WriteLine("Triangle");
@@ -52,21 +53,21 @@ while (option!=3)
             }
         }
         while (option != 1 && option != 2);
+        //חישוב היקף משולש
         if (option == 1)
             Console.WriteLine("Perimeter: " + (width + 2 * (Math.Sqrt(Math.Pow(Convert.ToDouble(width) / 2, 2) + Math.Pow(height, 2)))));
-        else 
-            if (width % 2 == 0 || width - 2 * height > 0)
+        else if (width % 2 == 0 || width - 2 * height > 0)
                 Console.WriteLine("Unable to Print Triangle");
             else
             {
                 if (width - 2 * height < 0)
                 {
                     string line = "";
-                    //first line
+                    //שורה ראשונה
                     for (int i = 0; i < width / 2; i++)
                         line += " ";
                     Console.WriteLine(line + "*");
-                    //middle lines
+                    //שורות ביניים
                     int len = 1;
                     if (((width - 2) / 2) == 0)
                     {
@@ -103,6 +104,7 @@ while (option!=3)
                                     Console.WriteLine(line);
                                 }
                         }
+                    //שורה סופית
                     line = "";
                     for (int i = 0; i < width; i++)
                         line += "*";
