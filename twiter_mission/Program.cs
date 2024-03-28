@@ -12,8 +12,10 @@ try
 } catch {
     Console.WriteLine("Wrong input type");
 }
+//כל עוד לא הוזן 3 ליציאה
 while (option!=3)
 {
+    //קליטת רוחב וגובה
     if (option == 1 || option == 2)
     {
         try
@@ -25,6 +27,7 @@ while (option!=3)
         }
         catch { Console.WriteLine("wront input type"); }
     }
+    //במקרה 1 - מלבן
     if (option == 1)
     {
         Console.WriteLine("Rectangle");
@@ -34,6 +37,7 @@ while (option!=3)
     }
     else if (option == 2)
     {
+        Console.WriteLine("Triangle");
         option = 0;
         do
         {
