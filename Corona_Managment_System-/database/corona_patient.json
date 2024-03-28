@@ -1,0 +1,54 @@
+{
+    "_id" : ObjectId("660332b7599c12e573953218"),
+    "id" : "333333334",
+    "diagnose_date" : "2024-03-05",
+    "recovery_date" : "2024-03-16"
+},
+{
+    "_id" : ObjectId("66040f22c13df1c2c1218485"),
+    "id" : "033471426",
+    "diagnose_date" : "2024-03-07",
+    "recovery_date" : "2024-03-22"
+},
+{
+    "_id" : ObjectId("6604917269330c498f1d0a90"),
+    "id" : "111111118",
+    "diagnose_date" : "2024-03-01",
+    "recovery_date" : "2024-03-07"
+},
+{
+    "_id" : ObjectId("660491d769330c498f1d0a95"),
+    "id" : "222222226",
+    "diagnose_date" : "2024-03-08",
+    "recovery_date" : "2024-03-12"
+},
+{
+    "_id" : ObjectId("6604924e69330c498f1d0a99"),
+    "id" : "333333334",
+    "diagnose_date" : "2024-03-16",
+    "recovery_date" : "2024-03-29"
+},
+{
+    "_id" : ObjectId("6604934d69330c498f1d0aa5"),
+    "id" : "555555556",
+    "diagnose_date" : "2024-03-15",
+    "recovery_date" : "2024-03-24"
+},
+{
+    "_id" : ObjectId("6604942e69330c498f1d0aa8"),
+    "id" : "666666664",
+    "diagnose_date" : "2024-03-15",
+    "recovery_date" : "2024-03-24"
+},
+{
+    "_id" : ObjectId("660494a569330c498f1d0aad"),
+    "id" : "777777772",
+    "diagnose_date" : "2024-03-07",
+    "recovery_date" : "2024-03-17"
+},
+{
+    "_id" : ObjectId("6604960369330c498f1d0abc"),
+    "id" : "123123127",
+    "diagnose_date" : "2024-03-09",
+    "recovery_date" : "2024-03-19"
+}

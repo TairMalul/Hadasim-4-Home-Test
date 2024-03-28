@@ -1,0 +1,84 @@
+{
+    "_id" : ObjectId("6604917269330c498f1d0a8f"),
+    "patient_id" : "111111118",
+    "dose_number" : NumberInt(2),
+    "date" : "2023-09-21",
+    "manufacturer" : "מודרנה"
+},
+{
+    "_id" : ObjectId("6604917269330c498f1d0a91"),
+    "patient_id" : "111111118",
+    "dose_number" : NumberInt(1),
+    "date" : "2023-08-17",
+    "manufacturer" : "פייזר"
+},
+{
+    "_id" : ObjectId("660492f469330c498f1d0a9f"),
+    "patient_id" : "444444442",
+    "dose_number" : NumberInt(2),
+    "date" : "2023-02-15",
+    "manufacturer" : "פייזר"
+},
+{
+    "_id" : ObjectId("660492f469330c498f1d0aa0"),
+    "patient_id" : "444444442",
+    "dose_number" : NumberInt(3),
+    "date" : "2023-04-21",
+    "manufacturer" : "מודרנה"
+},
+{
+    "_id" : ObjectId("660492f469330c498f1d0aa1"),
+    "patient_id" : "444444442",
+    "dose_number" : NumberInt(1),
+    "date" : "2023-01-01",
+    "manufacturer" : "פייזר"
+},
+{
+    "_id" : ObjectId("660492f469330c498f1d0aa2"),
+    "patient_id" : "444444442",
+    "dose_number" : NumberInt(4),
+    "date" : "2023-07-21",
+    "manufacturer" : "מודרנה"
+},
+{
+    "_id" : ObjectId("660494bd69330c498f1d0aaf"),
+    "patient_id" : "777777772",
+    "dose_number" : NumberInt(1),
+    "date" : "2024-01-11",
+    "manufacturer" : "מודרנה"
+},
+{
+    "_id" : ObjectId("6604958c69330c498f1d0ab7"),
+    "patient_id" : "999999998",
+    "dose_number" : NumberInt(1),
+    "date" : "2023-11-17",
+    "manufacturer" : "מודרנה"
+},
+{
+    "_id" : ObjectId("6604958c69330c498f1d0ab8"),
+    "patient_id" : "999999998",
+    "dose_number" : NumberInt(2),
+    "date" : "2024-01-11",
+    "manufacturer" : "פייזר"
+},
+{
+    "_id" : ObjectId("6604960369330c498f1d0abd"),
+    "patient_id" : "123123127",
+    "dose_number" : NumberInt(1),
+    "date" : "2023-11-17",
+    "manufacturer" : "פייזר"
+},
+{
+    "_id" : ObjectId("6604b4aa87cbf7a31493791a"),
+    "patient_id" : "222222226",
+    "dose_number" : NumberInt(1),
+    "date" : "2023-06-15",
+    "manufacturer" : "פייזר"
+},
+{
+    "_id" : ObjectId("6604b4aa87cbf7a31493791b"),
+    "patient_id" : "222222226",
+    "dose_number" : NumberInt(2),
+    "date" : "2024-03-13",
+    "manufacturer" : "מודרנה"
+}
