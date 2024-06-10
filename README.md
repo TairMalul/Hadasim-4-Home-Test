@@ -75,7 +75,7 @@ npm install @syncfusion/ej2-ng-charts
  יש צורך להתקין mongoDb ולוודא שהLocalhost הוא 27017:
  ![image](https://github.com/TairMalul/Hadasim-4-Home-Test/assets/118104637/56749c1f-057c-468c-88c3-298ebaef6493)
 
-אין חובה להתקין את מסד הנתונים, באת הוספת חברים חדשים הוא נוצר אוטומטית,  עם זאת כדי לטעון נתונים לדוגמה יש לבצע את התהליך הבא:
+אין חובה להתקין את מסד הנתונים, בעת הוספת חברים חדשים הוא נוצר אוטומטית,  עם זאת כדי לטעון נתונים לדוגמה יש לבצע את התהליך הבא:
 
 תחילה יש להתקין Studio3T: ![image](https://github.com/TairMalul/Hadasim-4-Home-Test/assets/118104637/bdb0895e-7058-4d71-a057-4c26256423d1)
 
